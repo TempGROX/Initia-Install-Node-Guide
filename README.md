@@ -1,8 +1,9 @@
+<div align=center>
+  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/ayyW6i94_200x200.jpg">
 
-<img align=center src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/ayyW6i94_200x200.jpg">
-
-<h1 align=center>Initia-Install-Node-Guide</h1>
-Here is the instruction for launching the Initia project node
+  <h1 align=center>Initia-Install-Node-Guide</h1>
+  Here is the instruction for launching the Initia project node
+</div>
 
 # Testnet Information
 
